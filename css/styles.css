@@ -86,21 +86,21 @@ h2 {
   float: left;
   border-radius: 75px;
   margin-right: 30px;
-  margin-bottom: 30px;
+  margin-bottom: 35px;
 
 }
 
 @media only screen and (max-width: 600px) {
 
   .top-img{
-  width: 99%;
+  width: 100%;
   }
 }
 
 @media only screen and (max-width: 600px) {
 
   .middle-img{
-  width: 99%;
+  width: 100%;
   }
 }
 
@@ -168,7 +168,9 @@ hr {
 }
 
 
-
+.navbar-nav{
+  text-align: right;
+}
 
 
 
@@ -205,7 +207,7 @@ a:hover {
 }
 
 .skill-row {
-  width: 50%;
+  width: 60%;
   margin: 80px auto 100px auto;
   text-align: left;
   line-height: 2;
